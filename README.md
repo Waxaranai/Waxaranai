@@ -1,4 +1,4 @@
-## Hi there, I'm Waxaranai 👋
+<h2 align="center"> Hi there, I'm Waxaranai 👋</h2>
 
 <br />
 
@@ -19,16 +19,19 @@
 
 <br />
 
----
+#### Weekly Activity:
 
-[![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<br />
+
+---
+
+[![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [facebook]: https://facebook.com/waxaranai
 [twitter]: https://twitter.com/Waxaranai
