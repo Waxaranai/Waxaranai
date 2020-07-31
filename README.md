@@ -23,6 +23,10 @@
 
 [![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [facebook]: https://facebook.com/waxaranai
 [twitter]: https://twitter.com/Waxaranai
 [youtube]: https://youtube.com/Waxaranai
