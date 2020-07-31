@@ -24,6 +24,11 @@
 
 [![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waxaranai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [twitter]: https://twitter.com/Waxaranai
 [youtube]: https://youtube.com/Waxaranai
 [instagram]: https://instagram.com/Waxaranai
