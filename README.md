@@ -1,8 +1,8 @@
 <h2 align="center"> Hi there, I'm Waxaranai 👋</h2>
-<p align="center">i'm 17 y.o and doing coding just for fun, currently learning typescript and do some javascript things.</p>
+<p align="center">I'm <b>17 y.o</b> from <b>Karanganyar, Indonesia 🇮🇩</b> and doing coding just for fun, currently learning TypeScript <img align="center" alt="Typescript" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" /> and do some JavaScript <img align="center" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> things.</p>
 <br />
 
-#### Social Media:
+#### Connect with me:
 [<img align="left" alt="Waxaranai | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Waxaranai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Waxaranai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -27,6 +27,7 @@ Other        0 secs          ███░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+#### Github Stats:
 [![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [facebook]: https://facebook.com/waxaranai
