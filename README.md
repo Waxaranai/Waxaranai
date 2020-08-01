@@ -22,7 +22,8 @@
 #### Weekly Activity:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   5 mins          ██████████████████████░░░   87.58 % 
+Other        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
 ```
 <!--END_SECTION:waka-->
 
