@@ -1,3 +1,4 @@
+<img align="center" src="https://avatars0.githubusercontent.com/u/32866617?s=512" style="border-radius:50%">
 <h2 align="center"> Hi there, I'm Waxaranai 👋</h2>
 <p align="center">I'm <b>17 y.o</b> live in <b>Karanganyar, Indonesia 🇮🇩</b> and doing coding just for fun, currently learning TypeScript <img align="center" alt="Typescript" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" /> and do some JavaScript <img align="center" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> things.</p>
 <br />
