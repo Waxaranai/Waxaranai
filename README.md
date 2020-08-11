@@ -23,10 +23,11 @@
 #### Weekly Activity:
 <!--START_SECTION:waka-->
 ```text
-TypeScript   46 mins         ██████████░░░░░░░░░░░░░░░   40.38 % 
-JavaScript   44 mins         █████████░░░░░░░░░░░░░░░░   38.96 % 
-Git Config   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+TypeScript   3 hrs 58 mins   █████████████████░░░░░░░░   68.72 % 
+JavaScript   1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Git Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 <!--END_SECTION:waka-->
 
