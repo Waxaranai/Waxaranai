@@ -21,18 +21,17 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<br/><details>
-<summary><b>Recent Github Activity</b></summary>
+<br/>
+
+#### Recent Github Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#148](https://github.com//discord-akairo/discord-akairo/issues/148) in [discord-akairo/discord-akairo](https://github.com//discord-akairo/discord-akairo)
 2. 🗣 Commented on [#602](https://github.com//iCrawl/discord-vscode/issues/602) in [iCrawl/discord-vscode](https://github.com//iCrawl/discord-vscode)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
-<summary><b>Code Activity</b></summary>
+#### Code Activity
 
 <!--START_SECTION:waka-->
 ```text
@@ -43,14 +42,10 @@ YAML         6 mins          ░░░░░░░░░░░░░░░░░
 JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
-</details>
 
-<details>
-<summary><b>Github Stats</b></summary>
+#### Github Stats
 
 [![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 [facebook]: https://facebook.com/waxaranai
 [twitter]: https://twitter.com/Waxaranai
