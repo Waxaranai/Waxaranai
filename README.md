@@ -21,6 +21,8 @@
 
 #### Recent Activity:
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#148](https://github.com//discord-akairo/discord-akairo/issues/148) in [discord-akairo/discord-akairo](https://github.com//discord-akairo/discord-akairo)
+2. 🗣 Commented on [#602](https://github.com//iCrawl/discord-vscode/issues/602) in [iCrawl/discord-vscode](https://github.com//iCrawl/discord-vscode)
 <!--END_SECTION:activity-->
 
 #### Code Activity:
