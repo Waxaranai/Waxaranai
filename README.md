@@ -26,8 +26,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#151](https://github.com//discord-akairo/discord-akairo/pull/151) in [discord-akairo/discord-akairo](https://github.com//discord-akairo/discord-akairo)
-2. 🗣 Commented on [#151](https://github.com//discord-akairo/discord-akairo/issues/151) in [discord-akairo/discord-akairo](https://github.com//discord-akairo/discord-akairo)
+1. 🎉 Merged PR [#1](https://github.com//Waxaranai/void/pull/1) in [Waxaranai/void](https://github.com//Waxaranai/void)
+2. ❌ Closed PR [#151](https://github.com//discord-akairo/discord-akairo/pull/151) in [discord-akairo/discord-akairo](https://github.com//discord-akairo/discord-akairo)
 <!--END_SECTION:activity-->
 
 
