@@ -26,8 +26,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//Waxaranai/void/issues/2) in [Waxaranai/void](https://github.com//Waxaranai/void)
-2. 🎉 Merged PR [#1](https://github.com//Waxaranai/void/pull/1) in [Waxaranai/void](https://github.com//Waxaranai/void)
+1. 💪 Opened PR [#1](https://github.com//youKnowOwO/mongotrize/pull/1) in [youKnowOwO/mongotrize](https://github.com//youKnowOwO/mongotrize)
+2. ❗️ Opened issue [#2](https://github.com//Waxaranai/void/issues/2) in [Waxaranai/void](https://github.com//Waxaranai/void)
 <!--END_SECTION:activity-->
 
 
