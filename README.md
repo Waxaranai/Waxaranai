@@ -26,8 +26,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//zhycorp/zhycorp.js/pull/4) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
-2. 💪 Opened PR [#1](https://github.com//youKnowOwO/mongotrize/pull/1) in [youKnowOwO/mongotrize](https://github.com//youKnowOwO/mongotrize)
+1. 🗣 Commented on [#95](https://github.com//pedroslopez/whatsapp-web.js/issues/95) in [pedroslopez/whatsapp-web.js](https://github.com//pedroslopez/whatsapp-web.js)
+2. 💪 Opened PR [#4](https://github.com//zhycorp/zhycorp.js/pull/4) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
 <!--END_SECTION:activity-->
 
 
