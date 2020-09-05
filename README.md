@@ -26,8 +26,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//youKnowOwO/mongotrize/pull/1) in [youKnowOwO/mongotrize](https://github.com//youKnowOwO/mongotrize)
-2. ❗️ Opened issue [#2](https://github.com//Waxaranai/void/issues/2) in [Waxaranai/void](https://github.com//Waxaranai/void)
+1. 💪 Opened PR [#4](https://github.com//zhycorp/zhycorp.js/pull/4) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+2. 💪 Opened PR [#1](https://github.com//youKnowOwO/mongotrize/pull/1) in [youKnowOwO/mongotrize](https://github.com//youKnowOwO/mongotrize)
 <!--END_SECTION:activity-->
 
 
