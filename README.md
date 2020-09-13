@@ -31,7 +31,7 @@
 <!--END_SECTION:activity-->
 
 
-#### Code Activity
+#### Weekly Code Activity
 
 <!--START_SECTION:waka-->
 ```text
