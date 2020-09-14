@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com//pedroslopez/whatsapp-web.js/issues/95) in [pedroslopez/whatsapp-web.js](https://github.com//pedroslopez/whatsapp-web.js)
-2. 💪 Opened PR [#4](https://github.com//zhycorp/zhycorp.js/pull/4) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+1. ❗️ Opened issue [#61](https://github.com//ankurk91/vue-loading-overlay/issues/61) in [ankurk91/vue-loading-overlay](https://github.com//ankurk91/vue-loading-overlay)
+2. 🗣 Commented on [#95](https://github.com//pedroslopez/whatsapp-web.js/issues/95) in [pedroslopez/whatsapp-web.js](https://github.com//pedroslopez/whatsapp-web.js)
 <!--END_SECTION:activity-->
 
 
