@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Waxaranai/music-bot-example/pull/2) in [Waxaranai/music-bot-example](https://github.com/Waxaranai/music-bot-example)
-2. 💪 Opened PR [#2](https://github.com/Waxaranai/music-bot-example/pull/2) in [Waxaranai/music-bot-example](https://github.com/Waxaranai/music-bot-example)
+1. ❗️ Closed issue [#882](https://github.com/open-wa/wa-automate-nodejs/issues/882) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#882](https://github.com/open-wa/wa-automate-nodejs/issues/882) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 
