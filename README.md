@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/shidoitsuka/hi-hacktoberfest/pull/3) in [shidoitsuka/hi-hacktoberfest](https://github.com/shidoitsuka/hi-hacktoberfest)
-2. ❗️ Closed issue [#882](https://github.com/open-wa/wa-automate-nodejs/issues/882) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#38](https://github.com/MhankBarBar/whatsapp-bot/issues/38) in [MhankBarBar/whatsapp-bot](https://github.com/MhankBarBar/whatsapp-bot)
+2. 💪 Opened PR [#3](https://github.com/shidoitsuka/hi-hacktoberfest/pull/3) in [shidoitsuka/hi-hacktoberfest](https://github.com/shidoitsuka/hi-hacktoberfest)
 <!--END_SECTION:activity-->
 
 
