@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Waxaranai/void/pull/3) in [Waxaranai/void](https://github.com/Waxaranai/void)
-2. ❗️ Closed issue [#2](https://github.com/Waxaranai/void/issues/2) in [Waxaranai/void](https://github.com/Waxaranai/void)
+1. ❗️ Opened issue [#935](https://github.com/open-wa/wa-automate-nodejs/issues/935) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 💪 Opened PR [#3](https://github.com/Waxaranai/void/pull/3) in [Waxaranai/void](https://github.com/Waxaranai/void)
 <!--END_SECTION:activity-->
 
 
