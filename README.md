@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Waxaranai</h2>
-<p align="center">I'm <b>17 years old</b> from <b>Indonesia 🇮🇩</b>. coding is my hobby & just for fun, currently learning TypeScript, Vue & do some JavaScript things.</p>
+<p align="center">I'm <b>17 years old</b> from <b>Indonesia 🇮🇩</b>. i love learning anything that i like, currently learning TypeScript, Vue, React, Svelte & love doing some JavaScript things.</p>
 
 #### Connect with me
 
