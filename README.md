@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#962](https://github.com/open-wa/wa-automate-nodejs/issues/962) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#959](https://github.com/open-wa/wa-automate-nodejs/issues/959) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 💪 Opened PR [#324](https://github.com/is-a-dev/register/pull/324) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#962](https://github.com/open-wa/wa-automate-nodejs/issues/962) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 
