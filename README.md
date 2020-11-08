@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#971](https://github.com/open-wa/wa-automate-nodejs/issues/971) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#8](https://github.com/Waxaranai/mongotrize/pull/8) in [Waxaranai/mongotrize](https://github.com/Waxaranai/mongotrize)
+1. 🗣 Commented on [#9](https://github.com/Waxaranai/mongotrize/issues/9) in [Waxaranai/mongotrize](https://github.com/Waxaranai/mongotrize)
+2. 🗣 Commented on [#10](https://github.com/Waxaranai/mongotrize/issues/10) in [Waxaranai/mongotrize](https://github.com/Waxaranai/mongotrize)
 <!--END_SECTION:activity-->
 
 
