@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Waxaranai/mongotrize/issues/9) in [Waxaranai/mongotrize](https://github.com/Waxaranai/mongotrize)
-2. 🗣 Commented on [#10](https://github.com/Waxaranai/mongotrize/issues/10) in [Waxaranai/mongotrize](https://github.com/Waxaranai/mongotrize)
+1. 💪 Opened PR [#3](https://github.com/hzmifork/slash-bot/pull/3) in [hzmifork/slash-bot](https://github.com/hzmifork/slash-bot)
+2. 🗣 Commented on [#9](https://github.com/Waxaranai/mongotrize/issues/9) in [Waxaranai/mongotrize](https://github.com/Waxaranai/mongotrize)
 <!--END_SECTION:activity-->
 
 
