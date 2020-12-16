@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/KurokuTetsuya/slash-bot/issues/9) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-2. 💪 Opened PR [#3](https://github.com/hzmifork/slash-bot/pull/3) in [hzmifork/slash-bot](https://github.com/hzmifork/slash-bot)
+1. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+2. 🗣 Commented on [#9](https://github.com/KurokuTetsuya/slash-bot/issues/9) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
 <!--END_SECTION:activity-->
 
 
