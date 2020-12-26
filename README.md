@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
-2. 🗣 Commented on [#9](https://github.com/KurokuTetsuya/slash-bot/issues/9) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
+1. 🗣 Commented on [#413](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues/413) in [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
+2. 🗣 Commented on [#14](https://github.com/KurokuTetsuya/slash-bot/issues/14) in [KurokuTetsuya/slash-bot](https://github.com/KurokuTetsuya/slash-bot)
 <!--END_SECTION:activity-->
 
 
