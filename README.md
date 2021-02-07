@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2201](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues/2201) in [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
-2. 🗣 Commented on [#1020](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues/1020) in [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
+1. 🗣 Commented on [#2201](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues/2201) in [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
+2. ❗️ Opened issue [#2201](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues/2201) in [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)
 <!--END_SECTION:activity-->
 
 
