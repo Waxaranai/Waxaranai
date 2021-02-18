@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Waxaranai/void/pull/4) in [Waxaranai/void](https://github.com/Waxaranai/void)
-2. 💪 Opened PR [#4](https://github.com/Waxaranai/void/pull/4) in [Waxaranai/void](https://github.com/Waxaranai/void)
+1. 💪 Opened PR [#5](https://github.com/Waxaranai/void/pull/5) in [Waxaranai/void](https://github.com/Waxaranai/void)
+2. ❌ Closed PR [#4](https://github.com/Waxaranai/void/pull/4) in [Waxaranai/void](https://github.com/Waxaranai/void)
 <!--END_SECTION:activity-->
 
 
