@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#595](https://github.com/pedroslopez/whatsapp-web.js/issues/595) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-2. ❌ Closed PR [#9](https://github.com/Waxaranai/void-wa/pull/9) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+1. 🗣 Commented on [#13](https://github.com/Waxaranai/void-wa/issues/13) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+2. 🗣 Commented on [#595](https://github.com/pedroslopez/whatsapp-web.js/issues/595) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 <!--END_SECTION:activity-->
 
 
