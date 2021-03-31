@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Waxaranai/todo-list/pull/1) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
-2. 💪 Opened PR [#1](https://github.com/Waxaranai/todo-list/pull/1) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
+1. 🗣 Commented on [#25](https://github.com/Waxaranai/void-wa/issues/25) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+2. 🗣 Commented on [#25](https://github.com/Waxaranai/void-wa/issues/25) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
 <!--END_SECTION:activity-->
 
 
