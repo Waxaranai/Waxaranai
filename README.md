@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#677](https://github.com/chakra-ui/chakra-ui/issues/677) in [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
-2. 🗣 Commented on [#28](https://github.com/Waxaranai/void-wa/issues/28) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+1. 🎉 Merged PR [#3](https://github.com/Waxaranai/todo-list/pull/3) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
+2. 💪 Opened PR [#3](https://github.com/Waxaranai/todo-list/pull/3) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
 <!--END_SECTION:activity-->
 
 
