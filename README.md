@@ -27,8 +27,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1555](https://github.com/open-wa/wa-automate-nodejs/issues/1555) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#3](https://github.com/Waxaranai/todo-list/pull/3) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
+1. 🎉 Merged PR [#4](https://github.com/Waxaranai/todo-list/pull/4) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
+2. 🗣 Commented on [#4](https://github.com/Waxaranai/todo-list/issues/4) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
 <!--END_SECTION:activity-->
 
 
