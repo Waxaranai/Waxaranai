@@ -1,13 +1,12 @@
 <h2 align="center"> Hi 👋, I'm Waxaranai</h2>
-<p align="center">I'm <b>17 years old</b> from <b>Indonesia 🇮🇩</b>. i love learning anything that i like, currently learning TypeScript, Vue, React, Svelte & love doing some JavaScript things.</p>
+<p align="center">I'm <b>17 years old</b> from <b>Indonesia 🇮🇩</b>. i love learning anything that i like, currently learning React and love doing some JavaScript/TypeScript things.</p>
 
 #### Connect with me
 
-[<img align="left" alt="Waxaranai | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Waxaranai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Waxaranai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Waxaranai | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<img align="left" alt="Waxaranai#0606" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+[<img align="left" alt="Waxaranai | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Waxaranai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Waxaranai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Waxaranai | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -38,18 +37,12 @@
 <!--END_SECTION:activity-->
 
 
-#### Weekly Code Activity
+[![Waxaranai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waxaranai&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   5 hrs 27 mins   ████████████████████████░   95.47 % 
-JavaScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-```
-<!--END_SECTION:waka-->
+[![Waxaranai's github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waxaranai&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Waxaranai' github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [facebook]: https://facebook.com/waxaranai
 [twitter]: https://twitter.com/Waxaranai
