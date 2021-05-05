@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/Waxaranai/void-wa/issues/53) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
-2. 🗣 Commented on [#52](https://github.com/Waxaranai/void-wa/issues/52) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+1. 🗣 Commented on [#56](https://github.com/Waxaranai/void-wa/issues/56) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+2. 🗣 Commented on [#58](https://github.com/Waxaranai/void-wa/issues/58) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
 <!--END_SECTION:activity-->
 
 
