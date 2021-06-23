@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/Waxaranai/void-wa/pull/62) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
-2. 🗣 Commented on [#62](https://github.com/Waxaranai/void-wa/issues/62) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+1. ❗️ Opened issue [#1810](https://github.com/open-wa/wa-automate-nodejs/issues/1810) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🎉 Merged PR [#62](https://github.com/Waxaranai/void-wa/pull/62) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
 <!--END_SECTION:activity-->
 
 
