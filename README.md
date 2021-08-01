@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/2) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
-2. 🎉 Merged PR [#1](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/1) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
+1. 🎉 Merged PR [#3](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/3) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
+2. 🎉 Merged PR [#2](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/2) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
 <!--END_SECTION:activity-->
 
 
