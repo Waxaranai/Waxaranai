@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1810](https://github.com/open-wa/wa-automate-nodejs/issues/1810) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🎉 Merged PR [#62](https://github.com/Waxaranai/void-wa/pull/62) in [Waxaranai/void-wa](https://github.com/Waxaranai/void-wa)
+1. 🎉 Merged PR [#2](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/2) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
+2. 🎉 Merged PR [#1](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/1) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
 <!--END_SECTION:activity-->
 
 
