@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1308](https://github.com/ROM-builders/temporary/pull/1308) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
-2. 🎉 Merged PR [#9](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/9) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
+1. 🎉 Merged PR [#10](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/10) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
+2. 💪 Opened PR [#1308](https://github.com/ROM-builders/temporary/pull/1308) in [ROM-builders/temporary](https://github.com/ROM-builders/temporary)
 <!--END_SECTION:activity-->
 
 
