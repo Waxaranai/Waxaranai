@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Komodo-OS-Rom/packages_apps_Settings/issues/10) in [Komodo-OS-Rom/packages_apps_Settings](https://github.com/Komodo-OS-Rom/packages_apps_Settings)
-2. 🎉 Merged PR [#10](https://github.com/Waxaranai/device_xiaomi_mojito-1/pull/10) in [Waxaranai/device_xiaomi_mojito-1](https://github.com/Waxaranai/device_xiaomi_mojito-1)
+1. 💪 Opened PR [#19](https://github.com/lighthouse-os/official_devices/pull/19) in [lighthouse-os/official_devices](https://github.com/lighthouse-os/official_devices)
+2. ❗️ Opened issue [#10](https://github.com/Komodo-OS-Rom/packages_apps_Settings/issues/10) in [Komodo-OS-Rom/packages_apps_Settings](https://github.com/Komodo-OS-Rom/packages_apps_Settings)
 <!--END_SECTION:activity-->
 
 
