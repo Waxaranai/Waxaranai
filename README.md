@@ -32,8 +32,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/lighthouse-os/official_devices/pull/20) in [lighthouse-os/official_devices](https://github.com/lighthouse-os/official_devices)
-2. 💪 Opened PR [#19](https://github.com/lighthouse-os/official_devices/pull/19) in [lighthouse-os/official_devices](https://github.com/lighthouse-os/official_devices)
+1. 💪 Opened PR [#9](https://github.com/dotOS-FE/OTA/pull/9) in [dotOS-FE/OTA](https://github.com/dotOS-FE/OTA)
+2. 💪 Opened PR [#20](https://github.com/lighthouse-os/official_devices/pull/20) in [lighthouse-os/official_devices](https://github.com/lighthouse-os/official_devices)
 <!--END_SECTION:activity-->
 
 
