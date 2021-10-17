@@ -13,8 +13,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Waxaranai/waku-inline/issues/1) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
-2. 🎉 Merged PR [#7](https://github.com/Waxaranai/todo-list/pull/7) in [Waxaranai/todo-list](https://github.com/Waxaranai/todo-list)
+1. 🎉 Merged PR [#2](https://github.com/Waxaranai/waku-inline/pull/2) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
+2. 🗣 Commented on [#2](https://github.com/Waxaranai/waku-inline/issues/2) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
 <!--END_SECTION:activity-->
 
 
