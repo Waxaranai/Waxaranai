@@ -13,8 +13,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Waxaranai/waku-inline/pull/3) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
-2. 💪 Opened PR [#3](https://github.com/Waxaranai/waku-inline/pull/3) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
+1. 💪 Opened PR [#43](https://github.com/ManthanShettigar/FunWithPython/pull/43) in [ManthanShettigar/FunWithPython](https://github.com/ManthanShettigar/FunWithPython)
+2. 🎉 Merged PR [#3](https://github.com/Waxaranai/waku-inline/pull/3) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
 <!--END_SECTION:activity-->
 
 
