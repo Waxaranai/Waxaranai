@@ -1,14 +1,5 @@
 <h2 align="center"> Hi 👋, I'm Waxaranai</h2>
-<p align="center">I'm <b>18 years old</b> from <b>Indonesia 🇮🇩</b>. i love learning anything that i like, currently learning React and love doing some JavaScript/TypeScript things.</p>
-
-#### Connect with me
-
-[<img align="left" alt="Waxaranai | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Waxaranai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Waxaranai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Waxaranai | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
-
-<br/>
+<p align="center"><b>18 years old</b> from <b>Indonesia 🇮🇩</b>. Im currently learning Android Development</p>
 
 #### Recent Github Activity
 
