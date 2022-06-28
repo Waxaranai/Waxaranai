@@ -1,22 +1,16 @@
-<h2 align="center"> Hi 👋, I'm Waxaranai</h2>
-<p align="center"><b>18 years old</b> from <b>Indonesia 🇮🇩</b>. Im currently learning Android Development</p>
+<h1 align="center">Hi 👋, I'm Waxaranai</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waxaranai&label=Profile%20views&color=0e75b6&style=flat" alt="waxaranai" /> </p>
 
-#### Recent Github Activity
+- 📫 How to reach me **wisnu@without.live**
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/ManthanShettigar/FunWithPython/pull/43) in [ManthanShettigar/FunWithPython](https://github.com/ManthanShettigar/FunWithPython)
-2. 🎉 Merged PR [#3](https://github.com/Waxaranai/waku-inline/pull/3) in [Waxaranai/waku-inline](https://github.com/Waxaranai/waku-inline)
-<!--END_SECTION:activity-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/waxaranai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waxaranai" height="30" width="40" /></a>
+<a href="https://fb.com/waxaranai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waxaranai" height="30" width="40" /></a>
+<a href="https://instagram.com/waxaranai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waxaranai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/waxaranai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="waxaranai" height="30" width="40" /></a>
+</p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waxaranai&show_icons=true&locale=en&layout=compact" alt="waxaranai" /></p>
 
-[![Waxaranai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Waxaranai&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Waxaranai's github stats](https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waxaranai&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[facebook]: https://facebook.com/waxaranai
-[twitter]: https://twitter.com/Waxaranai
-[youtube]: https://youtube.com/Waxaranai
-[instagram]: https://instagram.com/Waxaranai
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waxaranai&show_icons=true&locale=en" alt="waxaranai" /></p>
