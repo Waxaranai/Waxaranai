@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waxaranai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waxaranai&label=Profile%20views&color=0e75b6&style=flat" alt="waxaranai" /> </p>
 
-- 📫 How to reach me **wisnu@waku-prjkt.my.id**
+- 📫 How to reach me **me@wisnu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
